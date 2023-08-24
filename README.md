@@ -1,14 +1,14 @@
 # Activities
 
 
-[Week 1: Lecture notes and activities]
-[Week 1: Lecture notes and activities]
-[Week 3: Lecture notes and activities]
-[Week 4: Lecture notes and activities]
-[Week 5: Lecture notes and activities]
-[Week 6: Lecture notes and activities]
-[Week 7: Lecture notes and activities]
-[Week 8: Lecture notes and activities]
+- [Week 1: Lecture notes and activities]
+- [Week 1: Lecture notes and activities]
+- [Week 3: Lecture notes and activities]
+- [Week 4: Lecture notes and activities]
+- [Week 5: Lecture notes and activities]
+- [Week 6: Lecture notes and activities]
+- [Week 7: Lecture notes and activities]
+- [Week 8: Lecture notes and activities]
 
 
 
