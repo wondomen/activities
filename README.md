@@ -13,7 +13,7 @@
 
 
 <!-- Links -->
-[Week 1: Lecture notes and activities]:/activities/tree/week1
+[Week 1: Lecture notes and activities]:/tree/week1
 [Week 2: Lecture notes and activities]:https://github.com/tx00-web/activities/tree/week2
 [Week 3: Lecture notes and activities]:https://github.com/tx00-web/activities/tree/week3
 [Week 4: Lecture notes and activities]:https://github.com/tx00-web/activities/tree/week4
